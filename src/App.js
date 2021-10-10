@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          El SAFY is coming
+          BOLBOL is coming
         </p>
 
         <img src="https://thumbs.gfycat.com/UnsightlyDirectJunco-size_restricted.gif" className="App-logo" alt="logo" />
